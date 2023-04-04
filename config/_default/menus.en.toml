@@ -41,14 +41,20 @@
   url = "/certifications/"
   parent = "accomplishments"
 
-  [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
+  # [[main]]
+  # name = "Contact"
+  # weight = 600
+  # identifier = "contact"
+  # url = "/contact/"
 
-  [[footer]]
-  name = "imprint"
-  weight = 1
-  identifier = "imprint"
-  url = "/imprint/"
+  [[main]]
+  name = "Cv"
+  weight = 700
+  identifier = "Cv"
+  url = "https://www.dropbox.com/s/llr8e84hqq7j7yv/Saad%20Gulzar_CV.pdf?raw=1"
+
+  # [[footer]]
+  # name = "imprint"
+  # weight = 1
+  # identifier = "imprint"
+  # url = "/imprint/"

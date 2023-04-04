@@ -1,7 +1,7 @@
 
 title = "Saad Gulzar"
 author = "Saad Gulzar"
-#copyright = "2020-2021"
+# copyright = "2020-2023"
 description = "Assistant Professor, Dept. of Politics and School of Public and International Affairs, Princeton University"
 profilePicture = "images/saadgulzar.jpg"
 keywords = "Saad Gulzar"
@@ -56,25 +56,31 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
+
+[[socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/saadgulzar"
+
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/saadgulzar/"
 
 [[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
+icon = "fas fa-building-columns"
+title = "institution"
+url = "https://politics.princeton.edu/people/saad-gulzar"
 [[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fas fa-graduation-cap"
+title = "google scholar"
+url = "https://scholar.google.com/citations?hl=es&user=EDq5FvQAAAAJ"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:gulzar@princeton.edu"
+
 
 [mermaid]
 # enable = true
