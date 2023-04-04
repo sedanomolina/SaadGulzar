@@ -29,7 +29,7 @@ localizedDates = false
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
-        unsafe=true
+        unsafe=false
 
 [taxonomies]
     category = "categories"
