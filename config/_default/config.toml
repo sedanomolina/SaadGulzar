@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://saadgulzar.netlify.app/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Saad Gulzar"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
@@ -40,9 +40,11 @@ localizedDates = false
   includeNewer = true
   threshold = 80
   toLower = true
+  
 [[related.indices]]
   name = 'keywords'
   weight = 100
+
 [[related.indices]]
   name = 'tags'
   weight = 80
